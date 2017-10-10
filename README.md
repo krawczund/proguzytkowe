@@ -1,4 +1,4 @@
 # proguzytkowe
 #Damian Krawczun
 ##Opis projektu
-Krotkie opis projektu.
+Krotki opis projektu.
