@@ -1,4 +1,4 @@
-# proguzytkowe
+# Programy u¿ytkowe
 # Damian Krawczun
 ## Opis projektu
-Krotki opis projektu.
+Krotki opis projektu, ga³¹Ÿ.
